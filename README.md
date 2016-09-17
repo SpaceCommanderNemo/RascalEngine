@@ -5,8 +5,9 @@ This mod will add .625m and 1.25m Water Injection Precoolers and a purpose-built
 
 Required Mods:
  - Community Resource Pack
+ - GTI Utilities Engine Switcher: https://github.com/WarezCrawler/Guybrush101
+ - Module Manager
 
 Recommended Mods:
  - Interstellar Fuel Switch
  - Modular Fuel Tanks
- - B9/KAX/MK2 Expansion/QuizTech/ any spaceplane-part-adding mods
